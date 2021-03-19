@@ -1,37 +1,39 @@
 ---
-title: "Services"
+title: "What we do"
 weight: 2
 header_menu: true
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+What we can do for you
 
 ---
 
-## Nutrition Coaching
+## Better governance
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
+- Board training
+- Goverance review
+- Policy audit
 
 ---
 
-## Chef Consulting
+## Better strategy
 
-Did you see the picture above? I can show you how to go from
-
-![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg)
-
-to
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
+- Strategic planning
+- Program evaluation
+- Crisis management
+- Advocacy strategy
 
 ---
 
-Want to learn more about my services?
+## Better executive transition & coaching
 
-Check out [this page](services) I created. It carries a lot more details...
+- Transition planning & support
+- Personal & team coaching
+- Goal-setting & professional development
+
+---
+
+## Better elections & referenda
+
+- Election support
+- Referendum management 
